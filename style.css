@@ -372,7 +372,13 @@ html {
     margin: 0 auto;
     padding: 40px;
     max-width: 800px; }
-  
+    
+    .wrapper h1 {
+      text-align: center;
+      font-size: larger;
+    color: #e0e5eb; }
+      
+    
   .table {
     margin: 0 0 40px 0;
     width: 100%;
